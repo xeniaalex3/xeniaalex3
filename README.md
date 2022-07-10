@@ -1,4 +1,4 @@
-## hey I'm xenia , I'm a front end developer! 
+## hey I'm Xenia , I'm a front end developer! 
 
 <div align="center">
   <a href="https://github.com/xeniaalex3">
