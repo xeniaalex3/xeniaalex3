@@ -1,8 +1,8 @@
 <h1> Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Xenia , I'm a front end developer! </h1>
 <div align="center">
   <a href="https://github.com/xeniaalex3">
-  <img align="center"  height="180em"  src="https://github-readme-stats.vercel.app/api?username=xeniaalex3&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeniaalex3&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img align="center"  height="180em"  src="https://github-readme-stats.vercel.app/api?username=xeniaalex3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeniaalex3&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br></br>  
  
