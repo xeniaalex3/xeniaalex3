@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-4479A1?style=flat-square&logo=react&logoColor=white)
-![Node](https://img.shields.io/badge/-Node-4479A1?style=flat-square&logo=node&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node-4479A1?style=flat-square&logo=node&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux)   
