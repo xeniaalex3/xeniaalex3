@@ -1,8 +1,8 @@
 <h1> Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Xenia , I'm a front-end developer! </h1>
 <div align="center">
   <a href="https://github.com/xeniaalex3">
-  <img align="center"  height="180em"  src="https://github-readme-stats.vercel.app/api?username=xeniaalex3&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeniaalex3&layout=compact&langs_count=15&theme=gradient"/>
+  <img align="center"  height="180em"  src="https://github-readme-stats.vercel.app/api?username=xeniaalex3&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeniaalex3&layout=compact&langs_count=15&theme=material-palenight"/>
 </div>
 <br></br>  
  
@@ -17,8 +17,8 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactNative/reactNative-original.svg">
-  <img align="center" alt="Rafa-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
+  <img align="center" alt="Rafa-React-Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactNative/react-native-original.svg">
+  <img align="center" alt="Rafa-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node.js-original.svg">
 
 </div>
   
