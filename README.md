@@ -17,7 +17,7 @@
   <img align="center" alt="Xenia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Xenia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Xenia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+  <img align="center" alt="Xenia-React_Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react_native/react_native-original.svg">
 
 </div>
   
