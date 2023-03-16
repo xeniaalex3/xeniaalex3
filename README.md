@@ -2,9 +2,9 @@
 <div align="center">
   <a href="https://github.com/xeniaalex3">
   <img align="center"  height="180em"  src="https://github-readme-stats.vercel.app/api?username=xeniaalex3&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-    ![Xenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeniaalex3&count_private=true&show_icons=true&theme=tokyonight)
-  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeniaalex3&layout=compact&langs_count=15&theme=material-palenight"/>
+    <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeniaalex3&layout=compact&langs_count=15&theme=material-palenight"/>
 </div>
+  ![Xenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeniaalex3&count_private=true&show_icons=true&theme=tokyonight)
 <br></br>  
  
   ## ⚡ Technologies
