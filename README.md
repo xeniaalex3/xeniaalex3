@@ -1,4 +1,10 @@
 <h1> Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Xenia , I'm front-end developer! </h1>
+--------------------------
+
+*   🌍  I'm based in Paris, France
+*   🧠  Currently learning React Native
+*   🤝  I'm open to collaborating on interesting projects as a developer
+*   
 <div align="center">
   <a href="https://github.com/xeniaalex3">
   <img align="center"  height="180em"  src="https://github-readme-stats.vercel.app/api?username=xeniaalex3&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
