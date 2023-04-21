@@ -6,12 +6,12 @@
 
 
 <div align="center">
- <div align="center" width="150px">
+
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeniaalex3&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
- </div>
- <div align="center" width="150px">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeniaalex3&layout=compact&langs_count=9&theme=radical)]
- </div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeniaalex3&layout=default&langs_count=9&theme=radical)]
+
 </div>
  
 <br></br>  
