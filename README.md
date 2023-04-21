@@ -7,7 +7,7 @@
 
 <div align="center">
  
-    ![Xenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeniaalex3&theme=dark&show_icons=true)
+    [Xenia's GitHub stats] https://github-readme-stats.vercel.app/api?username=xeniaalex3&theme=dark&show_icons=true
 
 </div>
  
