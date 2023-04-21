@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<a href="https://github.com/xeniaalex3/github-readme-stats">
+<a href="https://github.com/xeniaalex3/github-readme-stats" margin="2rem">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xeniaalex3&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
  
