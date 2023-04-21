@@ -5,12 +5,12 @@
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 
-<div align="start">
+<div>
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeniaalex3&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeniaalex3&layout=default&langs_count=9&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeniaalex3&layout=compact&langs_count=9&theme=radical)
 
 </div>
  
