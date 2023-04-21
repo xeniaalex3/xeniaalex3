@@ -8,7 +8,7 @@
 <div align="center">
  
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeniaalex3&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeniaalex3&layout=compact&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 </div>
  
 <br></br>  
