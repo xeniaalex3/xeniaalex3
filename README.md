@@ -40,8 +40,9 @@
 
 
 ## My Projects
-<div>
+
 #### Poil O'Pattes 
+<div align='left'>
 [GitHub](https://github.com/xeniaalex3/Poil-O-Pattes) | [Live Demo](poilsopattes.raffiskender.com/)
 [<img height='150' align="left" src="assets/img/poilsopattes.png"/>](poilsopattes.raffiskender.com/) 
 </div>
