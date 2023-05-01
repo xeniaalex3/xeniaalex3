@@ -41,7 +41,7 @@
 
 ## 🛠️ My Projects
 
-#### Poil O'Pattes 
+### Poil O'Pattes 
 
 [GitHub](https://github.com/xeniaalex3/Poil-O-Pattes) | [Live Demo](poilsopattes.raffiskender.com/)
 <div align="left">
@@ -50,7 +50,7 @@
 
 
 
-#### Feedback Widget 
+### Feedback Widget 
 [GitHub](https://github.com/xeniaalex3/Feedback-Widget) | [Live Demo](https://feedback-widget-xi-snowy.vercel.app/)
 <div align="left">
 <a href="https://feedback-widget-xi-snowy.vercel.app/"><img height='150' src="assets/img/feedback1.png"/></a>
@@ -58,7 +58,7 @@
 
 
 
-#### eSports 
+### eSports 
 [GitHub](https://github.com/xeniaalex3/eSports) | [Live Demo]()
 <div align="left">
  <a href=""><img height='150' src="assets/img/esports.png"/></a>
