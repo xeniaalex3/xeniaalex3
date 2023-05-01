@@ -36,13 +36,23 @@
   <img align="center" alt="Xenia-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Xenia-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-  
-
-
-
-
-
-
-
 </div>
+
+
+## My Projects
+
+#### Poil O'Pattes 
+[GitHub](https://github.com/xeniaalex3/Poil-O-Pattes) | [Live Demo](poilsopattes.raffiskender.com/)
+[<img height='150' src="assets/img/connectme.png"/>](poilsopattes.raffiskender.com/) 
+
+
+
+
+
+
+
+
+
+
+
+
