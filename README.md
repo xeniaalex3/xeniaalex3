@@ -4,9 +4,13 @@
 *   🧠  Currently learning Node.js / React Native
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
-#### My Portfolio: 
-<a href="https://xenia-dev.vercel.app/">
+<br>
 
+  ### 🎨 My Portfolio: 
+  [Website](https://xenia-dev.vercel.app/)
+ 
+<br/>
+ 
 <div align="center">
 <a href="https://github.com/xeniaalex3/github-readme-stats" margin="22rem">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xeniaalex3&theme=omni&show_icons=true&include_all_commits=true&count_private=true" />
