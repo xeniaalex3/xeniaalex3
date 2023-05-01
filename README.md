@@ -39,7 +39,7 @@
 </div>
 
 
-## My Projects
+## 🛠️ My Projects
 
 #### Poil O'Pattes 
 
