@@ -66,7 +66,7 @@
 
 
 ### eSports 
-[GitHub](https://github.com/xeniaalex3/eSports) | [Live Demo]()
+[GitHub](https://github.com/xeniaalex3/eSports) | [Live Demo](https://e-sports-phi.vercel.app/)
 <div align="left">
  <a href=""><img height='150' src="assets/img/esports.png"/></a>
 
