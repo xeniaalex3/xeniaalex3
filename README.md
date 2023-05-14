@@ -7,9 +7,10 @@
 <br>
 
   ### 🎨 My Portfolio: 
-  <div target="_blank">
-  [Website](https://xenia-dev.vercel.app/)
-  <div>
+  
+ 
+  <a href="https://xenia-dev.vercel.app/">Website</a>
+  
  
 <br/>
  
