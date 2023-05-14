@@ -9,7 +9,7 @@
   ### 🎨 My Portfolio: 
   
  
-  <a href="https://xenia-dev.vercel.app/">Website</a>
+  <a href="https://xenia-dev.vercel.app/" target="_blank">Website</a>
   
  
 <br/>
