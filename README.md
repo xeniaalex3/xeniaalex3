@@ -1,7 +1,7 @@
 <h1> Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Xenia , I'm front-end developer! </h1>
 
 *   🌍  I'm based in Paris, France
-*   🧠  Currently learning Node.js / React Native
+*   🧠  Currently learning Node.js 
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 <br>
