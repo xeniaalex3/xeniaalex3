@@ -16,7 +16,7 @@
  
 <div align="center">
 <a href="https://github.com/xeniaalex3/github-readme-stats" margin="22rem">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeniaalex3&theme=omni&show_icons=true&include_all_commits=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeniaalex3&theme=omni&show_icons=true&include_all_commits=false&count_private=true" />
 </a>
  
 <a href="https://github.com/xeniaalex3/convoychat">
