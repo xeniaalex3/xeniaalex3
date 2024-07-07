@@ -33,6 +33,10 @@
 
 <br></br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeniaalex3&show_icons=true&theme=radical)
+
+<br></br>
+
  ## 🛠️ My Projects
 
 ### Poil O'Pattes 
