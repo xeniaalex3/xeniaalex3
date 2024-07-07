@@ -16,9 +16,6 @@
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,mui,react,next,nodejs,nest,prisma,supabase,figma,gitlab)](https://skillicons.dev)
 
-<br></br>
-
-<br></br>
 
  ## 🛠️ My Projects
 
