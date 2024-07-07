@@ -13,9 +13,10 @@
   ## ⚡ Technologies
   
   These are some of the technologies and tools that I work with:
-  
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,mui,react,next,nodejs,nest,prisma,supabase,figma,gitlab)](https://skillicons.dev)
 <div align="center" style="display: inline-block"><br>
-![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,next,redux,supabase,figma,gitlab)
+
   
   <img align="center" alt="Xenia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Xenia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
