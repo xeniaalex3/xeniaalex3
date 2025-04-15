@@ -8,7 +8,7 @@
   ### 🎨 My Portfolio: 
   
  
-  <a href="https://xenia-dev.vercel.app/" target="_blank">Website</a>
+  <a href="https://xeniadev.netlify.app/" target="_blank">Website</a>
    
   ## ⚡ Technologies
   
