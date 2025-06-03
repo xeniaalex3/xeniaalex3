@@ -22,7 +22,7 @@
 ### plannTrip
 [GitHub](https://github.com/xeniaalex3/PlannTrip)
 <div align="left">
-<img height='150' src="assets/img/plannTrip.png"/></a>
+<img height='150' src="assets/img/PlannTrip.png"/></a>
 
 ### Feedback Widget 
 [GitHub](https://github.com/xeniaalex3/Feedback-Widget) | [Live Demo](https://feedback-widget-xi-snowy.vercel.app/)
