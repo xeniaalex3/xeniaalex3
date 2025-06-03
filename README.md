@@ -19,12 +19,15 @@
 
  ## 🛠️ My Projects
 
+### plannTrip
+[GitHub](https://github.com/xeniaalex3/PlannTrip)
+<div align="left">
+<img height='150' src="assets/img/plannTrip.png"/></a>
+
 ### Feedback Widget 
 [GitHub](https://github.com/xeniaalex3/Feedback-Widget) | [Live Demo](https://feedback-widget-xi-snowy.vercel.app/)
 <div align="left">
 <a href="https://feedback-widget-xi-snowy.vercel.app/"><img height='150' src="assets/img/feedback1.png"/></a>
-
-
 
 
 ### eSports 
