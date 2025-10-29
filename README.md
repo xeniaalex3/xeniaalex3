@@ -7,12 +7,11 @@
 🤝 Open to collaborating on creative, user-focused web projects  
 </p>
 
---
 
 ### 🎨 My Portfolio  
 🔗 <a href="https://xeniadev.netlify.app/" target="_blank">Portfolio</a>
 
---
+----
 
 ### ⚡ Technologies & Tools  
 
@@ -20,30 +19,13 @@ These are the main technologies and tools I work with:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,mui,nodejs,nest,prisma,supabase,docker,figma,gitlab)](https://skillicons.dev)
 
----
+----
 
 ### 🧩 Featured Projects  
 
-#### 🧭 PlannTrip  
-✈️ A full-stack travel planning web application built with React, TypeScript, Nest.js, Prisma, PostgreSQL, and Docker.
-🧠 It allows users to create, manage, and visualize personalized travel itineraries with an intuitive and responsive UI.
-<br>
-[GitHub](https://github.com/xeniaalex3/PlannTrip) | [🌐 Live Demo](https://planntrip.netlify.app/)
-<img height="150" src="assets/img/plannTrip.png" />
+<table> <tr> <td width="50%"> <h4>🧭 <b>PlannTrip</b></h4> <p> ✈️ A full-stack travel planning web application built with <b>React, TypeScript, Nest.js, Prisma, PostgreSQL</b>, and <b>Docker</b>.<br> 🧠 Allows users to create, manage, and visualize personalized travel itineraries with an intuitive UI. </p> <p> <a href="https://github.com/xeniaalex3/PlannTrip">🔗 GitHub</a> | <a href="https://planntrip.netlify.app/">🌐 Live Demo</a> </p> <img src="assets/img/plannTrip.png" width="100%" alt="PlannTrip preview" /> </td> <td width="50%"> <h4>💬 <b>Feedback Widget</b></h4> <p> 💡 A real-time feedback component integrated into web apps, featuring form validation and dynamic UI updates. </p> <p> <a href="https://github.com/xeniaalex3/Feedback-Widget">🔗 GitHub</a> | <a href="https://feedback-widget-xi-snowy.vercel.app/">🌐 Live Demo</a> </p> <img src="assets/img/feedback1.png" width="100%" alt="Feedback Widget preview" /> </td> </tr> <tr> <td width="50%"> <h4>🎮 <b>eSports</b></h4> <p> 🏆 A responsive platform for discovering and managing gaming events, built with <b>React</b> and <b>Next.js</b>. </p> <p> <a href="https://github.com/xeniaalex3/eSports">🔗 GitHub</a> | <a href="https://e-sports-phi.vercel.app/">🌐 Live Demo</a> </p> <img src="assets/img/esports.png" width="100%" alt="eSports project preview" /> </td> <td></td> </tr> </table>
 
-#### 💬 Feedback Widget  
-💡 A real-time feedback component integrated into web apps.
-<br>
-[🔗 GitHub](https://github.com/xeniaalex3/Feedback-Widget) | [🌐 Live Demo](https://feedback-widget-xi-snowy.vercel.app/)  
-<img height="150" src="assets/img/feedback1.png" />
-
-#### 🎮 eSports  
-🏆 A responsive platform for discovering and managing game events.
-<br>
-[🔗 GitHub](https://github.com/xeniaalex3/eSports) | [🌐 Live Demo](https://e-sports-phi.vercel.app/)  
-<img height="150" src="assets/img/esports.png" />
-
----
+----
 
 ### 📈 GitHub Stats  
 <p align="center">
@@ -51,7 +33,7 @@ These are the main technologies and tools I work with:
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeniaalex3&layout=compact&theme=tokyonight" />
 </p>
 
----
+----
 
 ### 📫 Let's Connect  
 
