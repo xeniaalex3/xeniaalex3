@@ -10,7 +10,7 @@
 ---
 
 ### 🎨 My Portfolio  
-🔗 [xeniadev.netlify.app](https://xeniadev.netlify.app)
+🔗 <a href="https://xeniadev.netlify.app/" target="_blank">Portfolio</a>
 
 ---
 
@@ -25,8 +25,9 @@ These are the main technologies and tools I work with:
 ### 🧩 Featured Projects  
 
 #### 🧭 PlannTrip  
-✈️ A travel planning web app built with React and Tailwind CSS.  
-[🔗 GitHub](https://github.com/xeniaalex3/PlannTrip)  
+✈️ A full-stack travel planning web application built with React, TypeScript, Nest.js, Prisma, PostgreSQL, and Docker.
+🧠 It allows users to create, manage, and visualize personalized travel itineraries with an intuitive and responsive UI.
+[GitHub](https://github.com/xeniaalex3/PlannTrip) | [🌐 Live Demo](https://planntrip.netlify.app/)
 <img height="150" src="assets/img/plannTrip.png" />
 
 #### 💬 Feedback Widget  
@@ -52,7 +53,6 @@ These are the main technologies and tools I work with:
 ### 📫 Let's Connect  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/xeniaalex" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://xeniadev.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
