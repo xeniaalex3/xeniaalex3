@@ -27,7 +27,7 @@ These are the main technologies and tools I work with:
 <br>
 
 ### 🧭 **PlannTrip**
-<img src="assets/img/plannTrip.png" width="600" alt="PlannTrip preview"/>
+<img src="assets/img/plannTrip.png" width="400" alt="PlannTrip preview"/>
 
 ✈️ **Full-stack travel planning web app** built with **React, TypeScript, Nest.js, Prisma, PostgreSQL, and Docker**.  
 🧠 Enables users to create, manage, and visualize personalized travel itineraries through an intuitive and responsive UI.  
@@ -37,7 +37,7 @@ These are the main technologies and tools I work with:
 <br>
 
 ### 💬 **Feedback Widget**
-<img src="assets/img/feedback1.png" width="500" alt="Feedback Widget preview"/>
+<img src="assets/img/feedback1.png" width="400" alt="Feedback Widget preview"/>
 
 💡 **Real-time feedback component** integrated into web applications using **React** and **TypeScript**.  
 🪶 Features live validation, backend connection, and responsive design to enhance user experience.  
@@ -47,20 +47,12 @@ These are the main technologies and tools I work with:
 <br>
 
 ### 🎮 **eSports**
-<img src="assets/img/esports.png" width="500" alt="Feedback Widget preview"/>
+<img src="assets/img/esports.png" width="400" alt="Feedback Widget preview"/>
 
 🏆 **Gaming events platform** built with **React**.  
 🎯 Allows users to explore, manage, and showcase gaming tournaments through a sleek and responsive UI.  
 
 🔗 [GitHub](https://github.com/xeniaalex3/eSports) &nbsp;|&nbsp; 🌐 [Live Demo](https://e-sports-phi.vercel.app/)
-
-----
-
-### 📈 GitHub Stats  
-<p align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=xeniaalex3&show_icons=true&theme=tokyonight" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeniaalex3&layout=compact&theme=tokyonight" />
-</p>
 
 ----
 
