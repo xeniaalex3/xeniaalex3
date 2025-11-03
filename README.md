@@ -2,10 +2,6 @@
 
 <h3 align="start">💻 Front-end Developer </h3>
 
-<p align="start">
-🌍 Based in France
-</p>
-
 
 ### 🎨 My Portfolio  
 🔗 <a href="https://xeniadev.netlify.app/" target="_blank">Portfolio</a>
