@@ -1,7 +1,7 @@
 <h1 align="start">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Xenia</h1>
 
 <h3 align="start">💻 Front-end Developer </h3>
-
+<br>
 
 ### 🎨 My Portfolio  
 🔗 <a href="https://xeniadev.netlify.app/" target="_blank">Portfolio</a>
