@@ -6,7 +6,6 @@
 🌍 Based in France
 </p>
 
-<br>
 
 ### 🎨 My Portfolio  
 🔗 <a href="https://xeniadev.netlify.app/" target="_blank">Portfolio</a>
@@ -53,13 +52,7 @@ These are the main technologies and tools I work with:
 
 🔗 [GitHub](https://github.com/xeniaalex3/eSports) &nbsp;|&nbsp; 🌐 [Live Demo](https://e-sports-phi.vercel.app/)
 
-----
 
-### 📫 Let's Connect  
-
-<p align="center">
-<a href="https://xeniadev.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
 
 
 
