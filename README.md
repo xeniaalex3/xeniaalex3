@@ -3,8 +3,7 @@
 <h3 align="start">💻 Front-end Developer | React.js • Next.js • TypeScript</h3>
 
 <p align="start">
-🌍 Based in France & open to remote opportunities  
-🤝 Open to collaborating on creative, user-focused web projects  
+🌍 Based in France
 </p>
 
 <br>
