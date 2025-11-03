@@ -27,8 +27,8 @@ These are the main technologies and tools I work with:
 ### 🧭 **PlannTrip**
 <img src="assets/img/plannTrip.png" width="300" alt="PlannTrip preview"/>
 
-✈️ Full-stack travel planning web app built with **React, TypeScript, Nest.js, Prisma, PostgreSQL, and Docker**.  
-🧠 Enables users to create, manage, and visualize personalized travel itineraries through an intuitive and responsive UI.  
+- Full-stack travel planning web app built with **React, TypeScript, Nest.js, Prisma, PostgreSQL, and Docker**.  
+- Enables users to create, manage, and visualize personalized travel itineraries through an intuitive and responsive UI.  
 
 🔗 [GitHub](https://github.com/xeniaalex3/PlannTrip) &nbsp;|&nbsp; 🌐 [Live Demo](https://planntrip.netlify.app/)
 
@@ -37,8 +37,8 @@ These are the main technologies and tools I work with:
 ### 💬 **Feedback Widget**
 <img src="assets/img/feedback1.png" width="300" alt="Feedback Widget preview"/>
 
-💡 Real-time feedback component integrated into web applications using **React** and **TypeScript**.  
-🪶 Features live validation, backend connection, and responsive design to enhance user experience.  
+- Real-time feedback component integrated into web applications using **React** and **TypeScript**.  
+- Features live validation, backend connection, and responsive design to enhance user experience.  
 
 🔗 [GitHub](https://github.com/xeniaalex3/Feedback-Widget) &nbsp;|&nbsp; 🌐 [Live Demo](https://feedback-widget-xi-snowy.vercel.app/)
 
@@ -47,8 +47,8 @@ These are the main technologies and tools I work with:
 ### 🎮 **eSports**
 <img src="assets/img/esports.png" width="300" alt="Feedback Widget preview"/>
 
-🏆 Gaming events platform built with **React**.  
-🎯 Allows users to explore, manage, and showcase gaming tournaments through a sleek and responsive UI.  
+- Gaming events platform built with **React**.  
+- Allows users to explore, manage, and showcase gaming tournaments through a sleek and responsive UI.  
 
 🔗 [GitHub](https://github.com/xeniaalex3/eSports) &nbsp;|&nbsp; 🌐 [Live Demo](https://e-sports-phi.vercel.app/)
 
