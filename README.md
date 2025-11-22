@@ -1,6 +1,6 @@
-<h1 align="start">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Xenia</h1>
+<h1 align="start">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Xenia, a Front-end Developer</h1>
 
-<h3 align="start">💻 Front-end Developer </h3>
+<h3 align="start">I’m open to collaborating on interesting projects</h3>
 <br>
 
 ### 🎨 My Portfolio  
