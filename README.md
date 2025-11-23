@@ -4,7 +4,7 @@
 <br>
 
 ### 🎨 My Portfolio  
-🔗 <a href="https://xeniadev.netlify.app/" target="_blank">Portfolio</a>
+🔗 <a href="https://xeniaonescu.site/" target="_blank">Portfolio</a>
 
 ----
 
