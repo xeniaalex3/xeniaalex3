@@ -1,6 +1,6 @@
 <h1 align="start">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Xenia</h1>
 
-<p align="start">🌍  I am a Front-End Developer based in Paris, France.</p>
+<p align="start">🌍  I am a Front-end Developer based in Paris, France.</p>
 <p align="start">💻 Open to work !</p>
 <br>
 
