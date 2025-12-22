@@ -2,10 +2,7 @@
 
 <p align="start">🌍  I am a Front-End Developer based in Paris, France.</p>
 <p align="start">💻 Open to work !</p>
-
 <br>
-
-----
 
 ### ⚡ Technologies & Tools  
 
