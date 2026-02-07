@@ -1,8 +1,8 @@
 <h1 align="start">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Xenia, I'm a frontend developer. </h1>
 
-<h2 align="start">🌍 I am based in France.</h2>
+<h3 align="start">🌍 I am based in France.</h3>
 <h3 align="start">💡 Open to collaborating on interesting projects</h3>
-
+<br/>
 
 ### ⚡ Technologies & Tools  
 
