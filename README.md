@@ -10,6 +10,17 @@
 
 **👉 [My Portfolio](https://xeniaonescu.site/) 👈**
 
+* 🎓 &nbsp; I graduated as an Application Developer from O’Clock School;
+* 💼 &nbsp; I’ve been working as a Front-end Developer since 2022;
+* 🌱 &nbsp; For over 3 years, I’ve been focused on web development, mainly using **TypeScript, React, Next.js, UI Design, Design Systems and CI/CD**;
+* 🧠 &nbsp; I enjoy building clean, scalable and user-focused interfaces, with attention to performance and detail;
+* 🧘‍♀️ &nbsp; I practice yoga and meditation daily, which helps me stay focused and balanced;
+* 🌍 &nbsp; I love traveling and discovering new perspectives;
+* 📈 &nbsp; I’m interested in investments, finance and personal development;
+* 📚 &nbsp; I enjoy reading, from tech to self-improvement and finance;
+* 🎨 &nbsp; I have a strong interest in Renaissance art and aesthetics;
+
+
 <h2> 🛠 &nbsp;Tech Stack </h2>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -26,8 +37,8 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node)
-![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nest)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nest.js)
 
 **DevOps**
 
@@ -35,7 +46,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=CI/CD)
+![CI/CD](https://img.shields.io/badge/-CICD-333333?style=flat&logo=cicd)
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
 
@@ -50,7 +61,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 
+<h2>🚀 &nbsp;A bit more about my profile</h2>
 
+Check out some of my latest projects below 👇
 
 
 
