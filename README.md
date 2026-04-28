@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Hi, I’m Xenia. A front-end developer passionate about turning ideas into real products.</h1>
+<h1>👋 &nbsp;Hi, I’m Xenia. I build modern web applications that feel simple, clean and intuitive.</h1>
 
 <p align="center">
   <a href="mailto:contato.xeniaalex2@gmail.com"><img src="https://img.shields.io/badge/contato.xeniaalex2@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -10,15 +10,12 @@
 
 **👉 [My Portfolio](https://xeniaonescu.site/) 👈**
 
-* 🎓 &nbsp; I graduated as an Application Developer from O’Clock School;
-* 💼 &nbsp; I’ve been working as a Front-end Developer since 2022;
-* 🌱 &nbsp; For over 3 years, I’ve been focused on web development, mainly using **TypeScript, React, Next.js, UI Design, Design Systems and CI/CD**;
-* 🧠 &nbsp; I enjoy building clean, scalable and user-focused interfaces, with attention to performance and detail;
-* 🧘‍♀️ &nbsp; I practice yoga and meditation daily, which helps me stay focused and balanced;
-* 🌍 &nbsp; I love traveling and discovering new perspectives;
-* 📈 &nbsp; I’m interested in investments, finance and personal development;
-* 📚 &nbsp; I enjoy reading, from tech to self-improvement and finance;
-* 🎨 &nbsp; I have a strong interest in Renaissance art and aesthetics;
+* 🎓 &nbsp; I graduated as an Application Developer from O’Clock School and have been working as a Front-end Developer since 2022;
+* 🌱 &nbsp; For over 3 years, I’ve been focused on building modern web applications using **TypeScript, React, Next.js, UI Design, Design Systems and CI/CD**, with a strong emphasis on clean, scalable and user-focused interfaces;
+* 🧠 &nbsp; I care deeply about performance, detail and creating smooth user experiences;
+* 🧘‍♀️ &nbsp; Outside of tech, I practice yoga and meditation daily, which helps me stay focused and balanced;
+* 🌍 &nbsp; I enjoy traveling and discovering new cultures;
+* 🎨 &nbsp; I also enjoy visiting art exhibitions, especially Renaissance art;
 
 
 <h2> 🛠 &nbsp;Tech Stack </h2>
