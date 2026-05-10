@@ -15,8 +15,6 @@
 * 🧠 &nbsp; I care deeply about performance, detail and creating smooth user experiences;
 * 🧘‍♀️ &nbsp; Outside of tech, I practice yoga and meditation daily, which helps me stay focused and balanced;
 * 🌍 &nbsp; I enjoy traveling and discovering new cultures;
-* 🎨 &nbsp; I also enjoy visiting art exhibitions, especially Renaissance art;
-
 
 <h2> 🛠 &nbsp;Tech Stack </h2>
 
