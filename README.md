@@ -1,9 +1,5 @@
 <h1>👋 &nbsp;Hi, I’m Xenia. I build modern web applications that feel simple, clean and intuitive.</h1>
 
-<p align="center">
-  <a href="mailto:contato.xeniaalex2@gmail.com"><img src="https://img.shields.io/badge/contato.xeniaalex2@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
-
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <h2> 👨🏻‍💻 &nbsp;About me </h2>
