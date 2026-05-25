@@ -4,7 +4,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About me </h2>
 
-**👉 [My Portfolio](https://xeniaonescu.site/) 👈**
+**👉 [My Portfolio](https://xenia-onescu.netlify.app/) 👈**
 
 * 🎓 &nbsp; I graduated as an Application Developer and have been working as a Front-end Developer since 2022;
 * 🌱 &nbsp; For over 3 years, I’ve been focused on building modern web applications using **TypeScript, React, Next.js, UI Design, Design Systems and CI/CD**, with a strong emphasis on clean, scalable and user-focused interfaces;
