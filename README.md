@@ -6,7 +6,7 @@
 
 **👉 [My Portfolio](https://xeniaonescu.site/) 👈**
 
-* 🎓 &nbsp; I graduated as an Application Developer from O’Clock School and have been working as a Front-end Developer since 2022;
+* 🎓 &nbsp; I graduated as an Application Developer and have been working as a Front-end Developer since 2022;
 * 🌱 &nbsp; For over 3 years, I’ve been focused on building modern web applications using **TypeScript, React, Next.js, UI Design, Design Systems and CI/CD**, with a strong emphasis on clean, scalable and user-focused interfaces;
 * 🧠 &nbsp; I care deeply about performance, detail and creating smooth user experiences;
 * 🧘‍♀️ &nbsp; Outside of tech, I practice yoga and meditation daily, which helps me stay focused and balanced;
